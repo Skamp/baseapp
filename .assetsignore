@@ -1,0 +1,28 @@
+# Dependencies and package-manager state
+node_modules/
+bun.lock
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
+
+# Repository and editor metadata
+.git/
+.github/
+.gitignore
+.assetsignore
+.vscode/
+.idea/
+
+# Local server and documentation files
+server.mjs
+package.json
+README.md
+
+# Logs and temporary files
+*.log
+*.tmp
+*.temp
+
+# Wrangler local state
+.wrangler/
+wrangler.jsonc
