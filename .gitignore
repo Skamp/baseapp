@@ -1,0 +1,40 @@
+# Dependencies
+node_modules/
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Environment files
+.env
+.env.*
+!.env.example
+
+# Build and cache output
+dist/
+build/
+out/
+.cache/
+.parcel-cache/
+.vite/
+
+# Cloudflare / Wrangler local state
+.wrangler/
+
+# Test and coverage output
+coverage/
+.nyc_output/
+
+# Editor and OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
+
+# Local temporary files
+*.tmp
+*.temp

@@ -1,0 +1,266 @@
+:root {
+  color-scheme: light;
+  --ink: #16201c;
+  --muted: #61706a;
+  --line: #cfdbd5;
+  --surface: #f7faf8;
+  --panel: #ffffff;
+  --green: #216c4f;
+  --green-dark: #164b38;
+  --blue: #2763b1;
+  --red: #b73737;
+  --amber: #94620c;
+  font-family: Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  min-height: 100vh;
+  background: linear-gradient(180deg, #edf5f1 0%, #f9fbfa 58%, #ffffff 100%);
+  color: var(--ink);
+}
+
+button {
+  font: inherit;
+}
+
+.app-shell {
+  width: min(920px, calc(100% - 32px));
+  min-height: 100vh;
+  margin: 0 auto;
+  display: grid;
+  align-items: center;
+  padding: 32px 0;
+}
+
+.practice {
+  background: var(--panel);
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  box-shadow: 0 20px 60px rgba(22, 32, 28, 0.12);
+  padding: clamp(20px, 4vw, 40px);
+}
+
+.topbar,
+.status-row,
+.action-row,
+.choice-row {
+  display: flex;
+  align-items: center;
+}
+
+.topbar,
+.status-row {
+  justify-content: space-between;
+  gap: 16px;
+}
+
+.eyebrow {
+  margin: 0 0 4px;
+  color: var(--green);
+  font-size: 0.82rem;
+  font-weight: 800;
+  letter-spacing: 0;
+  text-transform: uppercase;
+}
+
+h1 {
+  margin: 0;
+  font-size: clamp(2rem, 5vw, 4rem);
+  line-height: 1;
+  letter-spacing: 0;
+}
+
+.score {
+  min-width: 96px;
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  padding: 10px 14px;
+  text-align: center;
+  color: var(--green-dark);
+  font-size: 1.4rem;
+  font-weight: 800;
+}
+
+.status-row {
+  margin-top: 28px;
+  justify-content: flex-end;
+}
+
+.word-panel {
+  margin-top: 18px;
+  padding: clamp(18px, 4vw, 36px);
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  background: var(--surface);
+}
+
+.word-display {
+  margin: 0;
+  text-align: center;
+  font-size: clamp(2.5rem, 9vw, 6.5rem);
+  font-weight: 900;
+  line-height: 1;
+  overflow-wrap: anywhere;
+}
+
+.syllable-grid {
+  display: grid;
+  grid-template-columns: repeat(var(--syllable-count, 3), minmax(0, 1fr));
+  gap: 10px;
+  margin-top: 28px;
+}
+
+.syllable-button,
+.choice-button,
+.primary-button,
+.ghost-button {
+  min-height: 48px;
+  border-radius: 8px;
+  border: 1px solid var(--line);
+  background: #ffffff;
+  color: var(--ink);
+  cursor: pointer;
+  font-weight: 800;
+  transition: transform 140ms ease, border-color 140ms ease, background 140ms ease, color 140ms ease;
+}
+
+.syllable-button:hover:not(:disabled),
+.choice-button:hover:not(:disabled),
+.primary-button:hover:not(:disabled),
+.ghost-button:hover:not(:disabled) {
+  transform: translateY(-1px);
+  border-color: var(--green);
+}
+
+.syllable-button.is-selected,
+.choice-button.is-selected {
+  background: #dcece6;
+  border-color: var(--green);
+  color: var(--green-dark);
+}
+
+.choice-row {
+  margin-top: 22px;
+  gap: 12px;
+}
+
+.type-row {
+  margin-top: 12px;
+}
+
+.choice-button {
+  flex: 1;
+}
+
+.action-row {
+  margin-top: 18px;
+  justify-content: center;
+  gap: 12px;
+}
+
+.primary-button {
+  min-width: 180px;
+  background: var(--green);
+  border-color: var(--green);
+  color: #ffffff;
+}
+
+.ghost-button {
+  padding: 0 18px;
+  background: #ffffff;
+}
+
+button:disabled {
+  cursor: not-allowed;
+  opacity: 0.48;
+  transform: none;
+}
+
+.feedback {
+  min-height: 88px;
+  margin-top: 22px;
+  border-radius: 8px;
+  padding: 16px;
+  background: #f1f5f3;
+  color: var(--muted);
+  font-weight: 700;
+  line-height: 1.5;
+}
+
+.feedback.is-correct {
+  background: #e4f4ec;
+  color: var(--green-dark);
+}
+
+.feedback.is-wrong {
+  background: #fae9e9;
+  color: var(--red);
+}
+
+.summary {
+  max-height: 320px;
+  overflow: auto;
+}
+
+.summary-block {
+  margin-top: 14px;
+}
+
+.summary-block span {
+  display: block;
+  color: var(--ink);
+  font-weight: 900;
+}
+
+.summary-block ul {
+  margin: 6px 0 0;
+  padding-left: 20px;
+}
+
+.summary-block li + li {
+  margin-top: 4px;
+}
+
+.answer-word {
+  display: block;
+  margin-top: 6px;
+  color: var(--ink);
+  font-size: 1.2rem;
+}
+
+@media (max-width: 640px) {
+  .app-shell {
+    width: min(100% - 20px, 920px);
+    padding: 10px 0;
+  }
+
+  .topbar {
+    align-items: flex-start;
+  }
+
+  .score {
+    min-width: 74px;
+    font-size: 1.1rem;
+  }
+
+  .status-row,
+  .choice-row,
+  .action-row {
+    align-items: stretch;
+    flex-direction: column;
+  }
+
+  .ghost-button,
+  .primary-button {
+    width: 100%;
+  }
+
+  .syllable-grid {
+    grid-template-columns: 1fr;
+  }
+}

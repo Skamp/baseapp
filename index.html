@@ -1,0 +1,40 @@
+<!doctype html>
+<html lang="es">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>BaseApp</title>
+    <meta
+      name="description"
+      content="Aplicacion base para acceder a TonicApp, AppOclock y futuras aplicaciones."
+    >
+    <link rel="stylesheet" href="styles.css">
+  </head>
+  <body>
+    <main class="shell">
+      <header class="header">
+        <p class="eyebrow">Mis aplicaciones</p>
+        <h1>BaseApp</h1>
+        <p class="intro">
+          Un punto de entrada sencillo para abrir las aplicaciones publicadas en este sitio.
+        </p>
+      </header>
+
+      <section class="app-grid" aria-label="Aplicaciones disponibles">
+        <a class="app-card tonic" href="/tonicapp/">
+          <span class="app-kicker">Lengua</span>
+          <span class="app-title">TonicApp</span>
+          <span class="app-description">Practica la silaba tonica, el tipo de palabra y la tilde.</span>
+          <span class="app-action">Abrir</span>
+        </a>
+
+        <a class="app-card clock" href="/appoclock/">
+          <span class="app-kicker">Ingles</span>
+          <span class="app-title">AppOclock</span>
+          <span class="app-description">Practica como decir la hora en ingles con reloj analogico o digital.</span>
+          <span class="app-action">Abrir</span>
+        </a>
+      </section>
+    </main>
+  </body>
+</html>

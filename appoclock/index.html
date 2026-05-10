@@ -1,0 +1,101 @@
+<!doctype html>
+<html lang="es">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Practice the Time</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <main class="app-shell">
+      <section class="topbar" aria-label="Configuracion de practica">
+        <div>
+          <p class="eyebrow">English time practice</p>
+          <h1>Practice the Time</h1>
+        </div>
+
+        <div class="controls">
+          <label class="control">
+            <span>Nivel</span>
+            <select id="levelSelect">
+              <option value="1">1 - O'clock</option>
+              <option value="2">2 - Digital minutes</option>
+              <option value="3">3 - Quarter / half</option>
+              <option value="4">4 - Past / to</option>
+              <option value="5">5 - Natural English</option>
+            </select>
+          </label>
+
+          <div class="control">
+            <span>Reloj</span>
+            <div class="segmented" role="radiogroup" aria-label="Tipo de reloj">
+              <button class="segment is-active" type="button" data-clock="analog" aria-pressed="true">
+                Analogico
+              </button>
+              <button class="segment" type="button" data-clock="digital" aria-pressed="false">
+                Digital
+              </button>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <section class="practice-area">
+        <div class="clock-stage" aria-live="polite">
+          <div id="analogClock" class="analog-clock" aria-label="Reloj analogico">
+            <span class="tick hour-12">12</span>
+            <span class="tick hour-1">1</span>
+            <span class="tick hour-2">2</span>
+            <span class="tick hour-3">3</span>
+            <span class="tick hour-4">4</span>
+            <span class="tick hour-5">5</span>
+            <span class="tick hour-6">6</span>
+            <span class="tick hour-7">7</span>
+            <span class="tick hour-8">8</span>
+            <span class="tick hour-9">9</span>
+            <span class="tick hour-10">10</span>
+            <span class="tick hour-11">11</span>
+            <span id="hourHand" class="hand hour-hand"></span>
+            <span id="minuteHand" class="hand minute-hand"></span>
+            <span class="pin"></span>
+          </div>
+
+          <div id="digitalClock" class="digital-clock is-hidden" aria-label="Reloj digital">
+            <span id="digitalTime">03:00</span>
+          </div>
+        </div>
+
+        <div class="answer-panel">
+          <div class="status-row">
+            <p id="promptText">Elige la frase correcta en ingles.</p>
+            <p id="scoreText">0 correctas</p>
+          </div>
+
+          <div id="choiceOptions" class="choice-grid"></div>
+          <label id="typedAnswerWrap" class="typed-answer is-hidden">
+            <span>Escribe la respuesta</span>
+            <input
+              id="typedAnswer"
+              type="text"
+              autocomplete="off"
+              spellcheck="false"
+              placeholder="It's five past three"
+            />
+          </label>
+          <div id="wordBank" class="word-bank is-hidden" aria-label="Palabras disponibles"></div>
+          <div id="answerSlots" class="answer-slots is-hidden" aria-label="Respuesta ordenada"></div>
+
+          <p id="feedback" class="feedback" aria-live="polite"></p>
+
+          <div class="actions">
+            <button id="checkButton" class="primary is-hidden" type="button">Comprobar</button>
+            <button id="clearButton" class="secondary is-hidden" type="button">Borrar</button>
+            <button id="nextButton" class="secondary" type="button">Siguiente</button>
+          </div>
+        </div>
+      </section>
+    </main>
+
+    <script src="app.js"></script>
+  </body>
+</html>

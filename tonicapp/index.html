@@ -1,0 +1,53 @@
+<!doctype html>
+<html lang="es">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Sílaba tónica</title>
+    <link rel="stylesheet" href="styles.css">
+  </head>
+  <body>
+    <main class="app-shell">
+      <section class="practice" aria-live="polite">
+        <div class="topbar">
+          <div>
+            <p class="eyebrow">Práctica de acentuación</p>
+            <h1>Sílaba tónica</h1>
+          </div>
+          <div class="score" aria-label="Puntuación">
+            <span id="scoreCorrect">0</span>/<span id="scoreTotal">0</span>
+          </div>
+        </div>
+
+        <div class="status-row">
+          <button id="finishButton" class="ghost-button" type="button" disabled>Finalizar</button>
+        </div>
+
+        <div class="word-panel">
+          <p id="wordDisplay" class="word-display">...</p>
+          <div id="syllableButtons" class="syllable-grid" aria-label="Elige la sílaba tónica"></div>
+        </div>
+
+        <div class="choice-row type-row" aria-label="Elige el tipo de palabra">
+          <button id="proparoxytoneButton" class="choice-button" type="button" disabled>Esdrújula</button>
+          <button id="plainButton" class="choice-button" type="button" disabled>Llana</button>
+          <button id="acuteButton" class="choice-button" type="button" disabled>Aguda</button>
+        </div>
+
+        <div class="choice-row" aria-label="Elige si lleva tilde">
+          <button id="noAccentButton" class="choice-button" type="button" disabled>Sin tilde</button>
+          <button id="accentButton" class="choice-button" type="button" disabled>Con tilde</button>
+        </div>
+
+        <div class="action-row">
+          <button id="validateButton" class="primary-button" type="button" disabled>Validar</button>
+          <button id="nextButton" class="ghost-button" type="button" disabled>Siguiente</button>
+        </div>
+
+        <div id="feedback" class="feedback" role="status"></div>
+      </section>
+    </main>
+
+    <script src="app.js"></script>
+  </body>
+</html>
