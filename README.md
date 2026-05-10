@@ -48,10 +48,27 @@ Luego abre:
 6. Conecta el repositorio donde este `BaseApp`.
 7. Configura el proyecto:
    - `Framework preset`: `None`
-   - `Build command`: dejar vacio
-   - `Build output directory`: `/`
+   - `Build command`: dejar vacio o usar `exit 0`
+   - `Build output directory`: `.`
    - `Root directory`: dejar vacio si el repo solo contiene BaseApp. Si el repo contiene varias carpetas y BaseApp esta dentro, usa `BaseApp`.
 8. Pulsa `Save and Deploy`.
+
+Importante: no uses `npx wrangler deploy` como comando de despliegue en Cloudflare Pages. Este proyecto es una web estatica; si Wrangler despliega la raiz completa del repo, puede intentar subir `node_modules` y otros archivos internos.
+
+## Si Cloudflare pide Deploy command
+
+En algunas pantallas nuevas de Cloudflare, especialmente si conectas el repositorio desde un Worker con static assets, el campo `Deploy command` es obligatorio. En ese caso usa:
+
+```bash
+npx wrangler deploy
+```
+
+Deja `Build command` vacio. Antes de desplegar asi, asegúrate de haber subido al repositorio estos dos ficheros:
+
+- `wrangler.jsonc`
+- `.assetsignore`
+
+El fichero `.assetsignore` evita que Wrangler intente subir `node_modules`, logs y archivos internos como assets publicos.
 
 Cloudflare Pages publicara la portada y las aplicaciones con estas rutas:
 
