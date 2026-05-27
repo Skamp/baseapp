@@ -64,7 +64,7 @@ h1 {
 
 .app-grid {
   display: grid;
-  grid-template-columns: repeat(2, minmax(0, 1fr));
+  grid-template-columns: repeat(3, minmax(0, 1fr));
   gap: 18px;
 }
 
@@ -130,12 +130,26 @@ h1 {
   background: var(--teal);
 }
 
+.essa .app-action {
+  background: #b7791f;
+}
+
 .tonic {
   border-top: 5px solid var(--green);
 }
 
 .clock {
   border-top: 5px solid var(--gold);
+}
+
+.essa {
+  border-top: 5px solid var(--teal);
+}
+
+@media (max-width: 980px) {
+  .app-grid {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
 }
 
 @media (max-width: 760px) {

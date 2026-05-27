@@ -1,0 +1,53 @@
+<!doctype html>
+<html lang="ca">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Essa sorda o sonora</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <main class="app-shell">
+      <section class="practice" aria-labelledby="app-title">
+        <header class="topbar">
+          <div>
+            <p class="eyebrow">Pràctica de fonètica</p>
+            <h1 id="app-title">Essa sorda o sonora</h1>
+          </div>
+          <div class="stats" aria-label="Estadístiques">
+            <div>
+              <span id="score">0</span>
+              <small>encerts</small>
+            </div>
+            <div>
+              <span id="streak">0</span>
+              <small>ratxa</small>
+            </div>
+          </div>
+        </header>
+
+        <div class="word-panel">
+          <p id="prompt" class="prompt">Quin so té la essa marcada?</p>
+          <div id="word" class="word" aria-live="polite"></div>
+        </div>
+
+        <section class="answers" aria-label="Opcions">
+          <div id="type-options" class="button-grid">
+            <button class="answer-button" type="button" data-type="sorda">Sorda</button>
+            <button class="answer-button" type="button" data-type="sonora">Sonora</button>
+          </div>
+          <div id="why-options" class="button-grid hidden"></div>
+        </section>
+
+        <p id="feedback" class="feedback" role="status" aria-live="polite"></p>
+
+        <footer class="actions">
+          <button id="next" class="ghost-button hidden" type="button">Següent paraula</button>
+          <button id="restart" class="ghost-button" type="button">Reinicia</button>
+        </footer>
+      </section>
+    </main>
+
+    <script src="app.js"></script>
+  </body>
+</html>

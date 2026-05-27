@@ -1,10 +1,10 @@
 import { createReadStream } from "node:fs";
 import { stat } from "node:fs/promises";
-import { extname, join, normalize } from "node:path";
+import { extname, join, normalize, relative, resolve } from "node:path";
 import { createServer } from "node:http";
 
 const port = Number(process.env.PORT || 4173);
-const root = process.cwd();
+const root = resolve(process.cwd());
 
 const contentTypes = {
   ".css": "text/css; charset=utf-8",
@@ -15,9 +15,16 @@ const contentTypes = {
 };
 
 function resolvePath(urlPath) {
-  const decoded = decodeURIComponent(urlPath.split("?")[0]);
-  const cleanPath = normalize(decoded).replace(/^(\.\.[/\\])+/, "");
-  return join(root, cleanPath);
+  const decoded = decodeURIComponent(new URL(urlPath, "http://local").pathname);
+  const cleanPath = normalize(decoded).replace(/^[/\\]+/, "").replace(/^(\.\.[/\\])+/, "");
+  const filePath = resolve(root, cleanPath);
+  const relativePath = relative(root, filePath);
+
+  if (relativePath.startsWith("..") || relativePath === "") {
+    return root;
+  }
+
+  return filePath;
 }
 
 async function findFile(urlPath) {
@@ -33,7 +40,7 @@ async function findFile(urlPath) {
 
 createServer(async (request, response) => {
   try {
-    if (request.url === "/tonicapp" || request.url === "/appoclock") {
+    if (request.url === "/tonicapp" || request.url === "/appoclock" || request.url === "/essaapp") {
       response.writeHead(301, { Location: `${request.url}/` });
       response.end();
       return;

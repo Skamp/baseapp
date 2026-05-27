@@ -5,6 +5,7 @@ Aplicacion base estatica para agrupar varias aplicaciones:
 - `/` abre la portada de BaseApp.
 - `/tonicapp/` abre TonicApp.
 - `/appoclock/` abre AppOclock.
+- `/essaapp/` abre EssaApp.
 
 ## Estructura
 
@@ -22,6 +23,11 @@ BaseApp/
     index.html
     styles.css
     app.js
+  essaapp/
+    index.html
+    styles.css
+    app.js
+    words.json
 ```
 
 Para anadir una app nueva, crea una carpeta en la raiz, por ejemplo `nuevaapp/`, copia dentro su `index.html` y sus assets, y anade un enlace en `index.html`.
@@ -37,6 +43,7 @@ Luego abre:
 - `http://localhost:4173/`
 - `http://localhost:4173/tonicapp/`
 - `http://localhost:4173/appoclock/`
+- `http://localhost:4173/essaapp/`
 
 ## Subir a Cloudflare Pages
 
@@ -75,6 +82,7 @@ Cloudflare Pages publicara la portada y las aplicaciones con estas rutas:
 - `https://tu-dominio.pages.dev/`
 - `https://tu-dominio.pages.dev/tonicapp/`
 - `https://tu-dominio.pages.dev/appoclock/`
+- `https://tu-dominio.pages.dev/essaapp/`
 
 ## Dominio personalizado
 
@@ -91,3 +99,4 @@ Cuando termine la propagacion DNS, las rutas seran:
 - `https://baseapp.url.com/`
 - `https://baseapp.url.com/tonicapp/`
 - `https://baseapp.url.com/appoclock/`
+- `https://baseapp.url.com/essaapp/`

@@ -1,0 +1,2095 @@
+[
+	{
+		"word": "sopa",
+		"position": 1,
+		"lenght": 1,
+		"type": "sorda",
+		"why": "a principi de paraula"
+	},
+	{
+		"word": "sabata",
+		"position": 1,
+		"lenght": 1,
+		"type": "sorda",
+		"why": "a principi de paraula"
+	},
+	{
+		"word": "sol",
+		"position": 1,
+		"lenght": 1,
+		"type": "sorda",
+		"why": "a principi de paraula"
+	},
+	{
+		"word": "setmana",
+		"position": 1,
+		"lenght": 1,
+		"type": "sorda",
+		"why": "a principi de paraula"
+	},
+	{
+		"word": "festa",
+		"position": 3,
+		"lenght": 1,
+		"type": "sorda",
+		"why": "entre vocal i consonant"
+	},
+	{
+		"word": "pista",
+		"position": 3,
+		"lenght": 1,
+		"type": "sorda",
+		"why": "entre vocal i consonant"
+	},
+	{
+		"word": "bosc",
+		"position": 3,
+		"lenght": 1,
+		"type": "sorda",
+		"why": "entre vocal i consonant"
+	},
+	{
+		"word": "resposta",
+		"position": 3,
+		"lenght": 1,
+		"type": "sorda",
+		"why": "entre consonant i vocal"
+	},
+	{
+		"word": "escola",
+		"position": 2,
+		"lenght": 1,
+		"type": "sorda",
+		"why": "entre vocal i consonant"
+	},
+	{
+		"word": "escala",
+		"position": 2,
+		"lenght": 1,
+		"type": "sorda",
+		"why": "entre vocal i consonant"
+	},
+	{
+		"word": "estiu",
+		"position": 2,
+		"lenght": 1,
+		"type": "sorda",
+		"why": "entre vocal i consonant"
+	},
+	{
+		"word": "esport",
+		"position": 2,
+		"lenght": 1,
+		"type": "sorda",
+		"why": "entre vocal i consonant"
+	},
+	{
+		"word": "castany",
+		"position": 3,
+		"lenght": 1,
+		"type": "sorda",
+		"why": "entre vocal i consonant"
+	},
+	{
+		"word": "mosca",
+		"position": 3,
+		"lenght": 1,
+		"type": "sorda",
+		"why": "entre vocal i consonant"
+	},
+	{
+		"word": "vespre",
+		"position": 3,
+		"lenght": 1,
+		"type": "sorda",
+		"why": "entre vocal i consonant"
+	},
+	{
+		"word": "pastís",
+		"position": 3,
+		"lenght": 1,
+		"type": "sorda",
+		"why": "entre vocal i consonant"
+	},
+	{
+		"word": "història",
+		"position": 3,
+		"lenght": 1,
+		"type": "sorda",
+		"why": "entre vocal i consonant"
+	},
+	{
+		"word": "disfressa",
+		"position": 3,
+		"lenght": 1,
+		"type": "sorda",
+		"why": "entre vocal i consonant"
+	},
+	{
+		"word": "respirar",
+		"position": 3,
+		"lenght": 1,
+		"type": "sorda",
+		"why": "entre vocal i consonant"
+	},
+	{
+		"word": "espasa",
+		"position": 2,
+		"lenght": 1,
+		"type": "sorda",
+		"why": "entre vocal i consonant"
+	},
+	{
+		"word": "espelma",
+		"position": 2,
+		"lenght": 1,
+		"type": "sorda",
+		"why": "entre vocal i consonant"
+	},
+	{
+		"word": "esfera",
+		"position": 2,
+		"lenght": 1,
+		"type": "sorda",
+		"why": "entre vocal i consonant"
+	},
+	{
+		"word": "estora",
+		"position": 2,
+		"lenght": 1,
+		"type": "sorda",
+		"why": "entre vocal i consonant"
+	},
+	{
+		"word": "escombra",
+		"position": 2,
+		"lenght": 1,
+		"type": "sorda",
+		"why": "entre vocal i consonant"
+	},
+	{
+		"word": "postal",
+		"position": 3,
+		"lenght": 1,
+		"type": "sorda",
+		"why": "entre vocal i consonant"
+	},
+	{
+		"word": "castell",
+		"position": 3,
+		"lenght": 1,
+		"type": "sorda",
+		"why": "entre vocal i consonant"
+	},
+	{
+		"word": "misteri",
+		"position": 3,
+		"lenght": 1,
+		"type": "sorda",
+		"why": "entre vocal i consonant"
+	},
+	{
+		"word": "costum",
+		"position": 3,
+		"lenght": 1,
+		"type": "sorda",
+		"why": "entre vocal i consonant"
+	},
+	{
+		"word": "finestreta",
+		"position": 5,
+		"lenght": 1,
+		"type": "sorda",
+		"why": "entre vocal i consonant"
+	},
+	{
+		"word": "artista",
+		"position": 5,
+		"lenght": 1,
+		"type": "sorda",
+		"why": "entre vocal i consonant"
+	},
+	{
+		"word": "vestit",
+		"position": 3,
+		"lenght": 1,
+		"type": "sorda",
+		"why": "entre vocal i consonant"
+	},
+	{
+		"word": "tempesta",
+		"position": 6,
+		"lenght": 1,
+		"type": "sorda",
+		"why": "entre vocal i consonant"
+	},
+	{
+		"word": "astronauta",
+		"position": 2,
+		"lenght": 1,
+		"type": "sorda",
+		"why": "entre vocal i consonant"
+	},
+	{
+		"word": "esquerra",
+		"position": 2,
+		"lenght": 1,
+		"type": "sorda",
+		"why": "entre vocal i consonant"
+	},
+	{
+		"word": "esquirol",
+		"position": 2,
+		"lenght": 1,
+		"type": "sorda",
+		"why": "entre vocal i consonant"
+	},
+	{
+		"word": "mascota",
+		"position": 3,
+		"lenght": 1,
+		"type": "sorda",
+		"why": "entre vocal i consonant"
+	},
+	{
+		"word": "espinac",
+		"position": 2,
+		"lenght": 1,
+		"type": "sorda",
+		"why": "entre vocal i consonant"
+	},
+	{
+		"word": "cristal",
+		"position": 4,
+		"lenght": 1,
+		"type": "sorda",
+		"why": "entre vocal i consonant"
+	},
+	{
+		"word": "vespa",
+		"position": 3,
+		"lenght": 1,
+		"type": "sorda",
+		"why": "entre vocal i consonant"
+	},
+	{
+		"word": "escuma",
+		"position": 2,
+		"lenght": 1,
+		"type": "sorda",
+		"why": "entre vocal i consonant"
+	},
+	{
+		"word": "estany",
+		"position": 2,
+		"lenght": 1,
+		"type": "sorda",
+		"why": "entre vocal i consonant"
+	},
+	{
+		"word": "espart",
+		"position": 2,
+		"lenght": 1,
+		"type": "sorda",
+		"why": "entre vocal i consonant"
+	},
+	{
+		"word": "estadi",
+		"position": 2,
+		"lenght": 1,
+		"type": "sorda",
+		"why": "entre vocal i consonant"
+	},
+	{
+		"word": "resposta",
+		"position": 3,
+		"lenght": 1,
+		"type": "sorda",
+		"why": "entre consonant i vocal"
+	},
+	{
+		"word": "espurna",
+		"position": 2,
+		"lenght": 1,
+		"type": "sorda",
+		"why": "entre vocal i consonant"
+	},
+	{
+		"word": "amistat",
+		"position": 4,
+		"lenght": 1,
+		"type": "sorda",
+		"why": "entre vocal i consonant"
+	},
+	{
+		"word": "pastanaga",
+		"position": 3,
+		"lenght": 1,
+		"type": "sorda",
+		"why": "entre vocal i consonant"
+	},
+	{
+		"word": "mestressa",
+		"position": 3,
+		"lenght": 1,
+		"type": "sorda",
+		"why": "entre vocal i consonant"
+	},
+	{
+		"word": "turista",
+		"position": 5,
+		"lenght": 1,
+		"type": "sorda",
+		"why": "entre vocal i consonant"
+	},
+	{
+		"word": "orquestra",
+		"position": 6,
+		"lenght": 1,
+		"type": "sorda",
+		"why": "entre vocal i consonant"
+	},
+	{
+		"word": "massa",
+		"position": 3,
+		"lenght": 2,
+		"type": "sorda",
+		"why": "entre vocals"
+	},
+	{
+		"word": "passar",
+		"position": 3,
+		"lenght": 2,
+		"type": "sorda",
+		"why": "entre vocals"
+	},
+	{
+		"word": "bessó",
+		"position": 3,
+		"lenght": 2,
+		"type": "sorda",
+		"why": "entre vocals"
+	},
+	{
+		"word": "rossa",
+		"position": 3,
+		"lenght": 2,
+		"type": "sorda",
+		"why": "entre vocals"
+	},
+	{
+		"word": "cassola",
+		"position": 3,
+		"lenght": 2,
+		"type": "sorda",
+		"why": "entre vocals"
+	},
+	{
+		"word": "tassa",
+		"position": 3,
+		"lenght": 2,
+		"type": "sorda",
+		"why": "entre vocals"
+	},
+	{
+		"word": "missa",
+		"position": 3,
+		"lenght": 2,
+		"type": "sorda",
+		"why": "entre vocals"
+	},
+	{
+		"word": "pressa",
+		"position": 4,
+		"lenght": 2,
+		"type": "sorda",
+		"why": "entre vocals"
+	},
+	{
+		"word": "ossos",
+		"position": 2,
+		"lenght": 2,
+		"type": "sorda",
+		"why": "entre vocals"
+	},
+	{
+		"word": "grossa",
+		"position": 4,
+		"lenght": 2,
+		"type": "sorda",
+		"why": "entre vocals"
+	},
+	{
+		"word": "Rússia",
+		"position": 3,
+		"lenght": 2,
+		"type": "sorda",
+		"why": "entre vocals"
+	},
+	{
+		"word": "classe",
+		"position": 4,
+		"lenght": 2,
+		"type": "sorda",
+		"why": "entre vocals"
+	},
+	{
+		"word": "pessic",
+		"position": 3,
+		"lenght": 2,
+		"type": "sorda",
+		"why": "entre vocals"
+	},
+	{
+		"word": "dissabte",
+		"position": 3,
+		"lenght": 2,
+		"type": "sorda",
+		"why": "entre vocals"
+	},
+	{
+		"word": "cassa",
+		"position": 3,
+		"lenght": 2,
+		"type": "sorda",
+		"why": "entre vocals"
+	},
+	{
+		"word": "agressiu",
+		"position": 5,
+		"lenght": 2,
+		"type": "sorda",
+		"why": "entre vocals"
+	},
+	{
+		"word": "bassa",
+		"position": 3,
+		"lenght": 2,
+		"type": "sorda",
+		"why": "entre vocals"
+	},
+	{
+		"word": "pissarra",
+		"position": 3,
+		"lenght": 2,
+		"type": "sorda",
+		"why": "entre vocals"
+	},
+	{
+		"word": "deixaràs",
+		"position": 8,
+		"lenght": 1,
+		"type": "sorda",
+		"why": "al final de paraula"
+	},
+	{
+		"word": "gossa",
+		"position": 3,
+		"lenght": 2,
+		"type": "sorda",
+		"why": "entre vocals"
+	},
+	{
+		"word": "comissió",
+		"position": 5,
+		"lenght": 2,
+		"type": "sorda",
+		"why": "entre vocals"
+	},
+	{
+		"word": "disfressa",
+		"position": 7,
+		"lenght": 2,
+		"type": "sorda",
+		"why": "entre vocals"
+	},
+	{
+		"word": "confessar",
+		"position": 6,
+		"lenght": 2,
+		"type": "sorda",
+		"why": "entre vocals"
+	},
+	{
+		"word": "conversa",
+		"position": 7,
+		"lenght": 1,
+		"type": "sorda",
+		"why": "entre consonant i vocal"
+	},
+	{
+		"word": "emissora",
+		"position": 4,
+		"lenght": 2,
+		"type": "sorda",
+		"why": "entre vocals"
+	},
+	{
+		"word": "possible",
+		"position": 3,
+		"lenght": 2,
+		"type": "sorda",
+		"why": "entre vocals"
+	},
+	{
+		"word": "necessitat",
+		"position": 5,
+		"lenght": 2,
+		"type": "sorda",
+		"why": "entre vocals"
+	},
+	{
+		"word": "interessantíssim",
+		"position": 7,
+		"lenght": 2,
+		"type": "sorda",
+		"why": "entre vocals"
+	},
+	{
+		"word": "passadís",
+		"position": 3,
+		"lenght": 2,
+		"type": "sorda",
+		"why": "entre vocals"
+	},
+	{
+		"word": "confessió",
+		"position": 6,
+		"lenght": 2,
+		"type": "sorda",
+		"why": "entre vocals"
+	},
+	{
+		"word": "essència",
+		"position": 2,
+		"lenght": 2,
+		"type": "sorda",
+		"why": "entre vocals"
+	},
+	{
+		"word": "passatemps",
+		"position": 3,
+		"lenght": 2,
+		"type": "sorda",
+		"why": "entre vocals"
+	},
+	{
+		"word": "professió",
+		"position": 6,
+		"lenght": 2,
+		"type": "sorda",
+		"why": "entre vocals"
+	},
+	{
+		"word": "pesseta",
+		"position": 3,
+		"lenght": 2,
+		"type": "sorda",
+		"why": "entre vocals"
+	},
+	{
+		"word": "obsessió",
+		"position": 5,
+		"lenght": 2,
+		"type": "sorda",
+		"why": "entre vocals"
+	},
+	{
+		"word": "cassó",
+		"position": 3,
+		"lenght": 2,
+		"type": "sorda",
+		"why": "entre vocals"
+	},
+	{
+		"word": "engrossir",
+		"position": 6,
+		"lenght": 2,
+		"type": "sorda",
+		"why": "entre vocals"
+	},
+	{
+		"word": "escassesa",
+		"position": 5,
+		"lenght": 2,
+		"type": "sorda",
+		"why": "entre vocals"
+	},
+	{
+		"word": "compassió",
+		"position": 6,
+		"lenght": 2,
+		"type": "sorda",
+		"why": "entre vocals"
+	},
+	{
+		"word": "transsiberià",
+		"position": 5,
+		"lenght": 2,
+		"type": "sorda",
+		"why": "entre vocals"
+	},
+	{
+		"word": "passió",
+		"position": 3,
+		"lenght": 2,
+		"type": "sorda",
+		"why": "entre vocals"
+	},
+	{
+		"word": "brassa",
+		"position": 4,
+		"lenght": 2,
+		"type": "sorda",
+		"why": "entre vocals"
+	},
+	{
+		"word": "agressor",
+		"position": 5,
+		"lenght": 2,
+		"type": "sorda",
+		"why": "entre vocals"
+	},
+	{
+		"word": "expressar",
+		"position": 6,
+		"lenght": 2,
+		"type": "sorda",
+		"why": "entre vocals"
+	},
+	{
+		"word": "impressió",
+		"position": 6,
+		"lenght": 2,
+		"type": "sorda",
+		"why": "entre vocals"
+	},
+	{
+		"word": "passiu",
+		"position": 3,
+		"lenght": 2,
+		"type": "sorda",
+		"why": "entre vocals"
+	},
+	{
+		"word": "rossinyol",
+		"position": 3,
+		"lenght": 2,
+		"type": "sorda",
+		"why": "entre vocals"
+	},
+	{
+		"word": "bressol",
+		"position": 4,
+		"lenght": 2,
+		"type": "sorda",
+		"why": "entre vocals"
+	},
+	{
+		"word": "cassis",
+		"position": 3,
+		"lenght": 2,
+		"type": "sorda",
+		"why": "entre vocals"
+	},
+	{
+		"word": "discussió",
+		"position": 6,
+		"lenght": 2,
+		"type": "sorda",
+		"why": "entre vocals"
+	},
+	{
+		"word": "cel",
+		"position": 1,
+		"lenght": 1,
+		"type": "sorda",
+		"why": "davant de e, i"
+	},
+	{
+		"word": "cera",
+		"position": 1,
+		"lenght": 1,
+		"type": "sorda",
+		"why": "davant de e, i"
+	},
+	{
+		"word": "cinema",
+		"position": 1,
+		"lenght": 1,
+		"type": "sorda",
+		"why": "davant de e, i"
+	},
+	{
+		"word": "cinc",
+		"position": 1,
+		"lenght": 1,
+		"type": "sorda",
+		"why": "davant de e, i"
+	},
+	{
+		"word": "ciutat",
+		"position": 1,
+		"lenght": 1,
+		"type": "sorda",
+		"why": "davant de e, i"
+	},
+	{
+		"word": "cirera",
+		"position": 1,
+		"lenght": 1,
+		"type": "sorda",
+		"why": "davant de e, i"
+	},
+	{
+		"word": "bicicleta",
+		"position": 3,
+		"lenght": 1,
+		"type": "sorda",
+		"why": "davant de e, i"
+	},
+	{
+		"word": "cel·la",
+		"position": 1,
+		"lenght": 1,
+		"type": "sorda",
+		"why": "davant de e, i"
+	},
+	{
+		"word": "cent",
+		"position": 1,
+		"lenght": 1,
+		"type": "sorda",
+		"why": "davant de e, i"
+	},
+	{
+		"word": "cistell",
+		"position": 1,
+		"lenght": 1,
+		"type": "sorda",
+		"why": "davant de e, i"
+	},
+	{
+		"word": "cigne",
+		"position": 1,
+		"lenght": 1,
+		"type": "sorda",
+		"why": "davant de e, i"
+	},
+	{
+		"word": "ciment",
+		"position": 1,
+		"lenght": 1,
+		"type": "sorda",
+		"why": "davant de e, i"
+	},
+	{
+		"word": "cirurgià",
+		"position": 1,
+		"lenght": 1,
+		"type": "sorda",
+		"why": "davant de e, i"
+	},
+	{
+		"word": "celístia",
+		"position": 1,
+		"lenght": 1,
+		"type": "sorda",
+		"why": "davant de e, i"
+	},
+	{
+		"word": "cendra",
+		"position": 1,
+		"lenght": 1,
+		"type": "sorda",
+		"why": "davant de e, i"
+	},
+	{
+		"word": "ceia",
+		"position": 1,
+		"lenght": 1,
+		"type": "sorda",
+		"why": "davant de e, i"
+	},
+	{
+		"word": "celobert",
+		"position": 1,
+		"lenght": 1,
+		"type": "sorda",
+		"why": "davant de e, i"
+	},
+	{
+		"word": "celestial",
+		"position": 1,
+		"lenght": 1,
+		"type": "sorda",
+		"why": "davant de e, i"
+	},
+	{
+		"word": "cigró",
+		"position": 1,
+		"lenght": 1,
+		"type": "sorda",
+		"why": "davant de e, i"
+	},
+	{
+		"word": "cimal",
+		"position": 1,
+		"lenght": 1,
+		"type": "sorda",
+		"why": "davant de e, i"
+	},
+	{
+		"word": "cintura",
+		"position": 1,
+		"lenght": 1,
+		"type": "sorda",
+		"why": "davant de e, i"
+	},
+	{
+		"word": "ciri",
+		"position": 1,
+		"lenght": 1,
+		"type": "sorda",
+		"why": "davant de e, i"
+	},
+	{
+		"word": "civada",
+		"position": 1,
+		"lenght": 1,
+		"type": "sorda",
+		"why": "davant de e, i"
+	},
+	{
+		"word": "civil",
+		"position": 1,
+		"lenght": 1,
+		"type": "sorda",
+		"why": "davant de e, i"
+	},
+	{
+		"word": "cerimònia",
+		"position": 1,
+		"lenght": 1,
+		"type": "sorda",
+		"why": "davant de e, i"
+	},
+	{
+		"word": "cereal",
+		"position": 1,
+		"lenght": 1,
+		"type": "sorda",
+		"why": "davant de e, i"
+	},
+	{
+		"word": "cérvol",
+		"position": 1,
+		"lenght": 1,
+		"type": "sorda",
+		"why": "davant de e, i"
+	},
+	{
+		"word": "ceptre",
+		"position": 1,
+		"lenght": 1,
+		"type": "sorda",
+		"why": "davant de e, i"
+	},
+	{
+		"word": "centímetre",
+		"position": 1,
+		"lenght": 1,
+		"type": "sorda",
+		"why": "davant de e, i"
+	},
+	{
+		"word": "ciclista",
+		"position": 1,
+		"lenght": 1,
+		"type": "sorda",
+		"why": "davant de e, i"
+	},
+	{
+		"word": "ciència",
+		"position": 1,
+		"lenght": 1,
+		"type": "sorda",
+		"why": "davant de e, i"
+	},
+	{
+		"word": "científic",
+		"position": 1,
+		"lenght": 1,
+		"type": "sorda",
+		"why": "davant de e, i"
+	},
+	{
+		"word": "cimenteri",
+		"position": 1,
+		"lenght": 1,
+		"type": "sorda",
+		"why": "davant de e, i"
+	},
+	{
+		"word": "circ",
+		"position": 1,
+		"lenght": 1,
+		"type": "sorda",
+		"why": "davant de e, i"
+	},
+	{
+		"word": "circular",
+		"position": 1,
+		"lenght": 1,
+		"type": "sorda",
+		"why": "davant de e, i"
+	},
+	{
+		"word": "cita",
+		"position": 1,
+		"lenght": 1,
+		"type": "sorda",
+		"why": "davant de e, i"
+	},
+	{
+		"word": "cívic",
+		"position": 1,
+		"lenght": 1,
+		"type": "sorda",
+		"why": "davant de e, i"
+	},
+	{
+		"word": "celofana",
+		"position": 1,
+		"lenght": 1,
+		"type": "sorda",
+		"why": "davant de e, i"
+	},
+	{
+		"word": "ceramista",
+		"position": 1,
+		"lenght": 1,
+		"type": "sorda",
+		"why": "davant de e, i"
+	},
+	{
+		"word": "ceràmica",
+		"position": 1,
+		"lenght": 1,
+		"type": "sorda",
+		"why": "davant de e, i"
+	},
+	{
+		"word": "cequí",
+		"position": 1,
+		"lenght": 1,
+		"type": "sorda",
+		"why": "davant de e, i"
+	},
+	{
+		"word": "cisterna",
+		"position": 1,
+		"lenght": 1,
+		"type": "sorda",
+		"why": "davant de e, i"
+	},
+	{
+		"word": "cimentació",
+		"position": 1,
+		"lenght": 1,
+		"type": "sorda",
+		"why": "davant de e, i"
+	},
+	{
+		"word": "cibernètic",
+		"position": 1,
+		"lenght": 1,
+		"type": "sorda",
+		"why": "davant de e, i"
+	},
+	{
+		"word": "cicatriu",
+		"position": 1,
+		"lenght": 1,
+		"type": "sorda",
+		"why": "davant de e, i"
+	},
+	{
+		"word": "centella",
+		"position": 1,
+		"lenght": 1,
+		"type": "sorda",
+		"why": "davant de e, i"
+	},
+	{
+		"word": "cerimoniós",
+		"position": 1,
+		"lenght": 1,
+		"type": "sorda",
+		"why": "davant de e, i"
+	},
+	{
+		"word": "cinglera",
+		"position": 1,
+		"lenght": 1,
+		"type": "sorda",
+		"why": "davant de e, i"
+	},
+	{
+		"word": "cigne blanc",
+		"position": 1,
+		"lenght": 1,
+		"type": "sorda",
+		"why": "davant de e, i"
+	},
+	{
+		"word": "civilització",
+		"position": 1,
+		"lenght": 1,
+		"type": "sorda",
+		"why": "davant de e, i"
+	},
+	{
+		"word": "caça",
+		"position": 3,
+		"lenght": 1,
+		"type": "sorda",
+		"why": "davant de a, o, u"
+	},
+	{
+		"word": "braç",
+		"position": 4,
+		"lenght": 1,
+		"type": "sorda",
+		"why": "al final de paraula"
+	},
+	{
+		"word": "llençol",
+		"position": 5,
+		"lenght": 1,
+		"type": "sorda",
+		"why": "davant de a, o, u"
+	},
+	{
+		"word": "feliç",
+		"position": 5,
+		"lenght": 1,
+		"type": "sorda",
+		"why": "al final de paraula"
+	},
+	{
+		"word": "força",
+		"position": 4,
+		"lenght": 1,
+		"type": "sorda",
+		"why": "davant de a, o, u"
+	},
+	{
+		"word": "peça",
+		"position": 3,
+		"lenght": 1,
+		"type": "sorda",
+		"why": "davant de a, o, u"
+	},
+	{
+		"word": "plaça",
+		"position": 4,
+		"lenght": 1,
+		"type": "sorda",
+		"why": "davant de a, o, u"
+	},
+	{
+		"word": "abraçada",
+		"position": 5,
+		"lenght": 1,
+		"type": "sorda",
+		"why": "davant de a, o, u"
+	},
+	{
+		"word": "caçador",
+		"position": 3,
+		"lenght": 1,
+		"type": "sorda",
+		"why": "davant de a, o, u"
+	},
+	{
+		"word": "cançó",
+		"position": 4,
+		"lenght": 1,
+		"type": "sorda",
+		"why": "davant de a, o, u"
+	},
+	{
+		"word": "açò",
+		"position": 2,
+		"lenght": 1,
+		"type": "sorda",
+		"why": "davant de a, o, u"
+	},
+	{
+		"word": "alçaprem",
+		"position": 3,
+		"lenght": 1,
+		"type": "sorda",
+		"why": "davant de a, o, u"
+	},
+	{
+		"word": "balança",
+		"position": 6,
+		"lenght": 1,
+		"type": "sorda",
+		"why": "davant de a, o, u"
+	},
+	{
+		"word": "dolçor",
+		"position": 4,
+		"lenght": 1,
+		"type": "sorda",
+		"why": "davant de a, o, u"
+	},
+	{
+		"word": "esperança",
+		"position": 8,
+		"lenght": 1,
+		"type": "sorda",
+		"why": "davant de a, o, u"
+	},
+	{
+		"word": "llança",
+		"position": 5,
+		"lenght": 1,
+		"type": "sorda",
+		"why": "davant de a, o, u"
+	},
+	{
+		"word": "traça",
+		"position": 4,
+		"lenght": 1,
+		"type": "sorda",
+		"why": "davant de a, o, u"
+	},
+	{
+		"word": "raça",
+		"position": 3,
+		"lenght": 1,
+		"type": "sorda",
+		"why": "davant de a, o, u"
+	},
+	{
+		"word": "eriçó",
+		"position": 4,
+		"lenght": 1,
+		"type": "sorda",
+		"why": "davant de a, o, u"
+	},
+	{
+		"word": "calçot",
+		"position": 4,
+		"lenght": 1,
+		"type": "sorda",
+		"why": "davant de a, o, u"
+	},
+	{
+		"word": "calça",
+		"position": 4,
+		"lenght": 1,
+		"type": "sorda",
+		"why": "davant de a, o, u"
+	},
+	{
+		"word": "moç",
+		"position": 3,
+		"lenght": 1,
+		"type": "sorda",
+		"why": "al final de paraula"
+	},
+	{
+		"word": "estufaçó",
+		"position": 7,
+		"lenght": 1,
+		"type": "sorda",
+		"why": "davant de a, o, u"
+	},
+	{
+		"word": "març",
+		"position": 4,
+		"lenght": 1,
+		"type": "sorda",
+		"why": "al final de paraula"
+	},
+	{
+		"word": "forçut",
+		"position": 4,
+		"lenght": 1,
+		"type": "sorda",
+		"why": "davant de a, o, u"
+	},
+	{
+		"word": "vençut",
+		"position": 4,
+		"lenght": 1,
+		"type": "sorda",
+		"why": "davant de a, o, u"
+	},
+	{
+		"word": "començava",
+		"position": 6,
+		"lenght": 1,
+		"type": "sorda",
+		"why": "davant de a, o, u"
+	},
+	{
+		"word": "començo",
+		"position": 6,
+		"lenght": 1,
+		"type": "sorda",
+		"why": "davant de a, o, u"
+	},
+	{
+		"word": "començut",
+		"position": 6,
+		"lenght": 1,
+		"type": "sorda",
+		"why": "davant de a, o, u"
+	},
+	{
+		"word": "avançar",
+		"position": 5,
+		"lenght": 1,
+		"type": "sorda",
+		"why": "davant de a, o, u"
+	},
+	{
+		"word": "avançó",
+		"position": 5,
+		"lenght": 1,
+		"type": "sorda",
+		"why": "davant de a, o, u"
+	},
+	{
+		"word": "descalç",
+		"position": 7,
+		"lenght": 1,
+		"type": "sorda",
+		"why": "al final de paraula"
+	},
+	{
+		"word": "torçó",
+		"position": 4,
+		"lenght": 1,
+		"type": "sorda",
+		"why": "davant de a, o, u"
+	},
+	{
+		"word": "llenç",
+		"position": 5,
+		"lenght": 1,
+		"type": "sorda",
+		"why": "al final de paraula"
+	},
+	{
+		"word": "açucarera",
+		"position": 2,
+		"lenght": 1,
+		"type": "sorda",
+		"why": "davant de a, o, u"
+	},
+	{
+		"word": "forçós",
+		"position": 4,
+		"lenght": 1,
+		"type": "sorda",
+		"why": "davant de a, o, u"
+	},
+	{
+		"word": "terçol",
+		"position": 4,
+		"lenght": 1,
+		"type": "sorda",
+		"why": "davant de a, o, u"
+	},
+	{
+		"word": "capçal",
+		"position": 4,
+		"lenght": 1,
+		"type": "sorda",
+		"why": "davant de a, o, u"
+	},
+	{
+		"word": "abraçall",
+		"position": 5,
+		"lenght": 1,
+		"type": "sorda",
+		"why": "davant de a, o, u"
+	},
+	{
+		"word": "capça",
+		"position": 4,
+		"lenght": 1,
+		"type": "sorda",
+		"why": "davant de a, o, u"
+	},
+	{
+		"word": "pinça",
+		"position": 4,
+		"lenght": 1,
+		"type": "sorda",
+		"why": "davant de a, o, u"
+	},
+	{
+		"word": "adreça",
+		"position": 5,
+		"lenght": 1,
+		"type": "sorda",
+		"why": "davant de a, o, u"
+	},
+	{
+		"word": "disbauxassa",
+		"position": 9,
+		"lenght": 2,
+		"type": "sorda",
+		"why": "entre vocals"
+	},
+	{
+		"word": "alçada",
+		"position": 3,
+		"lenght": 1,
+		"type": "sorda",
+		"why": "davant de a, o, u"
+	},
+	{
+		"word": "enllaç",
+		"position": 6,
+		"lenght": 1,
+		"type": "sorda",
+		"why": "al final de paraula"
+	},
+	{
+		"word": "pedaç",
+		"position": 5,
+		"lenght": 1,
+		"type": "sorda",
+		"why": "al final de paraula"
+	},
+	{
+		"word": "trossó",
+		"position": 4,
+		"lenght": 2,
+		"type": "sorda",
+		"why": "entre vocals"
+	},
+	{
+		"word": "caçola",
+		"position": 3,
+		"lenght": 1,
+		"type": "sorda",
+		"why": "davant de a, o, u"
+	},
+	{
+		"word": "llaç",
+		"position": 4,
+		"lenght": 1,
+		"type": "sorda",
+		"why": "al final de paraula"
+	},
+	{
+		"word": "marçal",
+		"position": 4,
+		"lenght": 1,
+		"type": "sorda",
+		"why": "davant de a, o, u"
+	},
+	{
+		"word": "casa",
+		"position": 3,
+		"lenght": 1,
+		"type": "sonora",
+		"why": "entre vocals"
+	},
+	{
+		"word": "rosa",
+		"position": 3,
+		"lenght": 1,
+		"type": "sonora",
+		"why": "entre vocals"
+	},
+	{
+		"word": "camisa",
+		"position": 5,
+		"lenght": 1,
+		"type": "sonora",
+		"why": "entre vocals"
+	},
+	{
+		"word": "música",
+		"position": 3,
+		"lenght": 1,
+		"type": "sonora",
+		"why": "entre vocals"
+	},
+	{
+		"word": "cosa",
+		"position": 3,
+		"lenght": 1,
+		"type": "sonora",
+		"why": "entre vocals"
+	},
+	{
+		"word": "posar",
+		"position": 3,
+		"lenght": 1,
+		"type": "sonora",
+		"why": "entre vocals"
+	},
+	{
+		"word": "besavi",
+		"position": 3,
+		"lenght": 1,
+		"type": "sonora",
+		"why": "entre vocals"
+	},
+	{
+		"word": "tisora",
+		"position": 3,
+		"lenght": 1,
+		"type": "sonora",
+		"why": "entre vocals"
+	},
+	{
+		"word": "sorpresa",
+		"position": 7,
+		"lenght": 1,
+		"type": "sonora",
+		"why": "entre vocals"
+	},
+	{
+		"word": "gasolina",
+		"position": 3,
+		"lenght": 1,
+		"type": "sonora",
+		"why": "entre vocals"
+	},
+	{
+		"word": "desembre",
+		"position": 3,
+		"lenght": 1,
+		"type": "sonora",
+		"why": "entre vocals"
+	},
+	{
+		"word": "esmorzar",
+		"position": 2,
+		"lenght": 1,
+		"type": "sonora",
+		"why": "entre vocals"
+	},
+	{
+		"word": "presó",
+		"position": 4,
+		"lenght": 1,
+		"type": "sonora",
+		"why": "entre vocals"
+	},
+	{
+		"word": "necessitat",
+		"position": 5,
+		"lenght": 2,
+		"type": "sorda",
+		"why": "davant de e, i"
+	},
+	{
+		"word": "princesa",
+		"position": 7,
+		"lenght": 1,
+		"type": "sonora",
+		"why": "entre vocals"
+	},
+	{
+		"word": "televisió",
+		"position": 7,
+		"lenght": 1,
+		"type": "sonora",
+		"why": "entre vocals"
+	},
+	{
+		"word": "frase",
+		"position": 4,
+		"lenght": 1,
+		"type": "sonora",
+		"why": "entre vocals"
+	},
+	{
+		"word": "ocasió",
+		"position": 4,
+		"lenght": 1,
+		"type": "sonora",
+		"why": "entre vocals"
+	},
+	{
+		"word": "presència",
+		"position": 4,
+		"lenght": 1,
+		"type": "sonora",
+		"why": "entre vocals"
+	},
+	{
+		"word": "visitar",
+		"position": 3,
+		"lenght": 1,
+		"type": "sonora",
+		"why": "entre vocals"
+	},
+	{
+		"word": "zoologia",
+		"position": 1,
+		"lenght": 1,
+		"type": "sonora",
+		"why": "al començament de paraula"
+	},
+	{
+		"word": "desastre",
+		"position": 3,
+		"lenght": 1,
+		"type": "sonora",
+		"why": "entre vocals"
+	},
+	{
+		"word": "paisatge",
+		"position": 4,
+		"lenght": 1,
+		"type": "sonora",
+		"why": "entre vocals"
+	},
+	{
+		"word": "precisió",
+		"position": 6,
+		"lenght": 1,
+		"type": "sonora",
+		"why": "entre vocals"
+	},
+	{
+		"word": "decisió",
+		"position": 5,
+		"lenght": 1,
+		"type": "sonora",
+		"why": "entre vocals"
+	},
+	{
+		"word": "cosina",
+		"position": 3,
+		"lenght": 1,
+		"type": "sonora",
+		"why": "entre vocals"
+	},
+	{
+		"word": "basar",
+		"position": 3,
+		"lenght": 1,
+		"type": "sonora",
+		"why": "entre vocals"
+	},
+	{
+		"word": "tresor",
+		"position": 4,
+		"lenght": 1,
+		"type": "sonora",
+		"why": "entre vocals"
+	},
+	{
+		"word": "residència",
+		"position": 3,
+		"lenght": 1,
+		"type": "sonora",
+		"why": "entre vocals"
+	},
+	{
+		"word": "gasolina",
+		"position": 3,
+		"lenght": 1,
+		"type": "sonora",
+		"why": "entre vocals"
+	},
+	{
+		"word": "casual",
+		"position": 3,
+		"lenght": 1,
+		"type": "sonora",
+		"why": "entre vocals"
+	},
+	{
+		"word": "avisar",
+		"position": 4,
+		"lenght": 1,
+		"type": "sonora",
+		"why": "entre vocals"
+	},
+	{
+		"word": "divisió",
+		"position": 5,
+		"lenght": 1,
+		"type": "sonora",
+		"why": "entre vocals"
+	},
+	{
+		"word": "resum",
+		"position": 3,
+		"lenght": 1,
+		"type": "sonora",
+		"why": "entre vocals"
+	},
+	{
+		"word": "poesia",
+		"position": 4,
+		"lenght": 1,
+		"type": "sonora",
+		"why": "entre vocals"
+	},
+	{
+		"word": "casino",
+		"position": 3,
+		"lenght": 1,
+		"type": "sonora",
+		"why": "entre vocals"
+	},
+	{
+		"word": "cosir",
+		"position": 3,
+		"lenght": 1,
+		"type": "sonora",
+		"why": "entre vocals"
+	},
+	{
+		"word": "desert",
+		"position": 3,
+		"lenght": 1,
+		"type": "sonora",
+		"why": "entre vocals"
+	},
+	{
+		"word": "disseny",
+		"position": 3,
+		"lenght": 2,
+		"type": "sonora",
+		"why": "entre vocals"
+	},
+	{
+		"word": "entusiasme",
+		"position": 8,
+		"lenght": 1,
+		"type": "sonora",
+		"why": "entre vocals"
+	},
+	{
+		"word": "necessitat",
+		"position": 5,
+		"lenght": 2,
+		"type": "sorda",
+		"why": "davant de e, i"
+	},
+	{
+		"word": "fraseig",
+		"position": 4,
+		"lenght": 1,
+		"type": "sonora",
+		"why": "entre vocals"
+	},
+	{
+		"word": "miserable",
+		"position": 3,
+		"lenght": 1,
+		"type": "sonora",
+		"why": "entre vocals"
+	},
+	{
+		"word": "vesprejar",
+		"position": 3,
+		"lenght": 1,
+		"type": "sonora",
+		"why": "entre consonants"
+	},
+	{
+		"word": "rosada",
+		"position": 3,
+		"lenght": 1,
+		"type": "sonora",
+		"why": "entre vocals"
+	},
+	{
+		"word": "exclusiu",
+		"position": 6,
+		"lenght": 1,
+		"type": "sonora",
+		"why": "entre vocals"
+	},
+	{
+		"word": "ocasional",
+		"position": 4,
+		"lenght": 1,
+		"type": "sonora",
+		"why": "entre vocals"
+	},
+	{
+		"word": "president",
+		"position": 4,
+		"lenght": 1,
+		"type": "sonora",
+		"why": "entre vocals"
+	},
+	{
+		"word": "invasió",
+		"position": 5,
+		"lenght": 1,
+		"type": "sonora",
+		"why": "entre vocals"
+	},
+	{
+		"word": "zero",
+		"position": 1,
+		"lenght": 1,
+		"type": "sonora",
+		"why": "al començament de paraula"
+	},
+	{
+		"word": "zebra",
+		"position": 1,
+		"lenght": 1,
+		"type": "sonora",
+		"why": "al començament de paraula"
+	},
+	{
+		"word": "zinc",
+		"position": 1,
+		"lenght": 1,
+		"type": "sonora",
+		"why": "al començament de paraula"
+	},
+	{
+		"word": "zona",
+		"position": 1,
+		"lenght": 1,
+		"type": "sonora",
+		"why": "al començament de paraula"
+	},
+	{
+		"word": "zoològic",
+		"position": 1,
+		"lenght": 1,
+		"type": "sonora",
+		"why": "al començament de paraula"
+	},
+	{
+		"word": "zodíac",
+		"position": 1,
+		"lenght": 1,
+		"type": "sonora",
+		"why": "al començament de paraula"
+	},
+	{
+		"word": "zombi",
+		"position": 1,
+		"lenght": 1,
+		"type": "sonora",
+		"why": "al començament de paraula"
+	},
+	{
+		"word": "zig-zag",
+		"position": 1,
+		"lenght": 1,
+		"type": "sonora",
+		"why": "al començament de paraula"
+	},
+	{
+		"word": "zenit",
+		"position": 1,
+		"lenght": 1,
+		"type": "sonora",
+		"why": "al començament de paraula"
+	},
+	{
+		"word": "zel",
+		"position": 1,
+		"lenght": 1,
+		"type": "sonora",
+		"why": "al començament de paraula"
+	},
+	{
+		"word": "zàping",
+		"position": 1,
+		"lenght": 1,
+		"type": "sonora",
+		"why": "al començament de paraula"
+	},
+	{
+		"word": "zircó",
+		"position": 1,
+		"lenght": 1,
+		"type": "sonora",
+		"why": "al començament de paraula"
+	},
+	{
+		"word": "zulu",
+		"position": 1,
+		"lenght": 1,
+		"type": "sonora",
+		"why": "al començament de paraula"
+	},
+	{
+		"word": "zepelí",
+		"position": 1,
+		"lenght": 1,
+		"type": "sonora",
+		"why": "al començament de paraula"
+	},
+	{
+		"word": "zincatge",
+		"position": 1,
+		"lenght": 1,
+		"type": "sonora",
+		"why": "al començament de paraula"
+	},
+	{
+		"word": "ziga-zaga",
+		"position": 1,
+		"lenght": 1,
+		"type": "sonora",
+		"why": "al començament de paraula"
+	},
+	{
+		"word": "zoologia",
+		"position": 1,
+		"lenght": 1,
+		"type": "sonora",
+		"why": "al començament de paraula"
+	},
+	{
+		"word": "zoom",
+		"position": 1,
+		"lenght": 1,
+		"type": "sonora",
+		"why": "al començament de paraula"
+	},
+	{
+		"word": "zootècnia",
+		"position": 1,
+		"lenght": 1,
+		"type": "sonora",
+		"why": "al començament de paraula"
+	},
+	{
+		"word": "zebraire",
+		"position": 1,
+		"lenght": 1,
+		"type": "sonora",
+		"why": "al començament de paraula"
+	},
+	{
+		"word": "zincar",
+		"position": 1,
+		"lenght": 1,
+		"type": "sonora",
+		"why": "al començament de paraula"
+	},
+	{
+		"word": "zeugma",
+		"position": 1,
+		"lenght": 1,
+		"type": "sonora",
+		"why": "al començament de paraula"
+	},
+	{
+		"word": "zeteta",
+		"position": 1,
+		"lenght": 1,
+		"type": "sonora",
+		"why": "al començament de paraula"
+	},
+	{
+		"word": "zelador",
+		"position": 1,
+		"lenght": 1,
+		"type": "sonora",
+		"why": "al començament de paraula"
+	},
+	{
+		"word": "zelosament",
+		"position": 1,
+		"lenght": 1,
+		"type": "sonora",
+		"why": "al començament de paraula"
+	},
+	{
+		"word": "pastanaga",
+		"position": 3,
+		"lenght": 1,
+		"type": "sorda",
+		"why": "entre vocal i consonant"
+	},
+	{
+		"word": "ziga",
+		"position": 1,
+		"lenght": 1,
+		"type": "sonora",
+		"why": "al començament de paraula"
+	},
+	{
+		"word": "zuric",
+		"position": 1,
+		"lenght": 1,
+		"type": "sonora",
+		"why": "al començament de paraula"
+	},
+	{
+		"word": "zèfir",
+		"position": 1,
+		"lenght": 1,
+		"type": "sonora",
+		"why": "al començament de paraula"
+	},
+	{
+		"word": "zenc",
+		"position": 1,
+		"lenght": 1,
+		"type": "sonora",
+		"why": "al començament de paraula"
+	},
+	{
+		"word": "zootrop",
+		"position": 1,
+		"lenght": 1,
+		"type": "sonora",
+		"why": "al començament de paraula"
+	},
+	{
+		"word": "zulueta",
+		"position": 1,
+		"lenght": 1,
+		"type": "sonora",
+		"why": "al començament de paraula"
+	},
+	{
+		"word": "zigurat",
+		"position": 1,
+		"lenght": 1,
+		"type": "sonora",
+		"why": "al començament de paraula"
+	},
+	{
+		"word": "zoster",
+		"position": 1,
+		"lenght": 1,
+		"type": "sonora",
+		"why": "al començament de paraula"
+	},
+	{
+		"word": "zèppelin",
+		"position": 1,
+		"lenght": 1,
+		"type": "sonora",
+		"why": "al començament de paraula"
+	},
+	{
+		"word": "zoòfit",
+		"position": 1,
+		"lenght": 1,
+		"type": "sonora",
+		"why": "al començament de paraula"
+	},
+	{
+		"word": "zoòleg",
+		"position": 1,
+		"lenght": 1,
+		"type": "sonora",
+		"why": "al començament de paraula"
+	},
+	{
+		"word": "zircònia",
+		"position": 1,
+		"lenght": 1,
+		"type": "sonora",
+		"why": "al començament de paraula"
+	},
+	{
+		"word": "zoolatre",
+		"position": 1,
+		"lenght": 1,
+		"type": "sonora",
+		"why": "al començament de paraula"
+	},
+	{
+		"word": "zeïna",
+		"position": 1,
+		"lenght": 1,
+		"type": "sonora",
+		"why": "al començament de paraula"
+	},
+	{
+		"word": "zodíacal",
+		"position": 1,
+		"lenght": 1,
+		"type": "sonora",
+		"why": "al començament de paraula"
+	},
+	{
+		"word": "zoònic",
+		"position": 1,
+		"lenght": 1,
+		"type": "sonora",
+		"why": "al començament de paraula"
+	},
+	{
+		"word": "zigaire",
+		"position": 1,
+		"lenght": 1,
+		"type": "sonora",
+		"why": "al començament de paraula"
+	},
+	{
+		"word": "zooplàncton",
+		"position": 1,
+		"lenght": 1,
+		"type": "sonora",
+		"why": "al començament de paraula"
+	},
+	{
+		"word": "zoòspora",
+		"position": 1,
+		"lenght": 1,
+		"type": "sonora",
+		"why": "al començament de paraula"
+	},
+	{
+		"word": "zoomorf",
+		"position": 1,
+		"lenght": 1,
+		"type": "sonora",
+		"why": "al començament de paraula"
+	},
+	{
+		"word": "zeolita",
+		"position": 1,
+		"lenght": 1,
+		"type": "sonora",
+		"why": "al començament de paraula"
+	},
+	{
+		"word": "zambomba",
+		"position": 1,
+		"lenght": 1,
+		"type": "sonora",
+		"why": "al començament de paraula"
+	},
+	{
+		"word": "zosteriforme",
+		"position": 1,
+		"length": 1,
+		"type": "sonora",
+		"why": "al començament de paraula"
+	},
+	{
+		"word": "zoogeografia",
+		"position": 1,
+		"lenght": 1,
+		"type": "sonora",
+		"why": "al començament de paraula"
+	}
+]
